@@ -1,5 +1,4 @@
-- name: Eat
-- name: Sleep
-- name: Cook
-- name: Bake
-- name: Code
+- name: Reading
+- name: Watching
+- name: Gaming
+- name: Coding

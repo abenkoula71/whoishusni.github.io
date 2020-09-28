@@ -1,14 +1,11 @@
-- name: Chinese 
+- name: Indonesian 
   level: Native
 
 - name: English 
   level: Fluent
 
-- name: Malay 
-  level: Fluent
+- name: Arabic 
+  level: Intermediate
   
-- name: Hokkien 
-  level: Fluent
-
-- name: Cantonese 
-  level: Beginner
+- name: Thai 
+  level: Absolutely Beginner

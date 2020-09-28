@@ -1,17 +1,11 @@
-- name: Cooking
-  level: 70
-
-- name: Eating
+- name: Java
   level: 80
 
-- name: Honest
-  level: 95
-
-- name: Confident
+- name: Kotlin
   level: 75
 
-- name: Loyal
-  level: 95
+- name: C#
+  level: 70
 
-- name: Sleeping
-  level: 60
+- name: Corel Draw
+  level: 80

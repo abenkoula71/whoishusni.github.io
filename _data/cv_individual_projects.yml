@@ -1,11 +1,41 @@
-- title: Sample Individual Project 1
-  link: http://www.google.com
-  time: Dec 2016 - Dec 2017
-  company: Student at You Don't Care University
-  info: Additional information about project.
+- title: Sulteng Covid Mobile Apps (Android)
+  link: https://github.com/whoishusni/SultengCovid
+  time: Apr 2020 - Jun 2020
+  company: Personal Project
+  info: Information About Covid-19 Outbreak in Central Celebes, Indonesia With MVVM Pattern 
 
-- title: Sample Individual Project 2
-  link: http://www.google.com
-  time: Dec 2014
-  company: Student at You Don't Care University
-  info: Additional information about project.
+- title: Covninfo
+  link: https://github.com/whoishusni/COVNINFO
+  time: Mar 2020 - Apr 2020
+  company: Personal Project
+  info: COVNINFO = Covid Nineteen (Covid-19) Outbreak Info, with MVVM Pattern 
+
+- title: Space Shooter Local Multiplayer
+  link: https://github.com/whoishusni/Space-Shooter-Multiplayer
+  time: Mar 2020
+  company: Personal Project
+  info: Local Multiplayer Space Shooter Game made with Unity 
+
+- title: Ninja Wannabe
+  link: https://github.com/whoishusni/Ninja-Wannabe/commits/master
+  time: Feb 2020
+  company: Personal Project
+  info: 2D Platformer Game Build With Unity 
+
+- title: Game Defines Character
+  link: https://github.com/whoishusni/Game-Menentukan-Karakter
+  time: Dec 2019
+  company: Personal Project
+  info: Casual Game
+
+- title: Movies Tv Catalogue
+  link: https://github.com/whoishusni/MoviesTvCatalogue/commits/master
+  time: Aug 2019 - Mar 2020
+  company: Personal Project
+  info: Movies And Tv Series Catalogue
+
+- title: Debt Note
+  link: https://github.com/whoishusni/CatatanKeutangan/commits/master
+  time: Dec 2018
+  company: Personal Project
+  info: Note For Someone Who Debt
