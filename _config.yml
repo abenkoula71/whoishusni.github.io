@@ -12,16 +12,16 @@ ga_index: UA-XXXXXXXX-X
 ga_cv: UA-XXXXXXXX-X
 
 # Index page and Profile Information
-name: Moh Husni Mubaraq
+name: Mohammad Husni Mubaraq
 tagline: Android Developer, Game Developer
 pic: profile.jpg # profile.png can be found at /assets/images/profile.png
-description: Android Developer, Game Developer
+description: Person Who Write Code
 description_tiny: 'Meditate | Study | Work | Coding'
-email: mohhusnimubaraq@gmail.com
-website: whoishusni.github.io # do not add http://
-linkedin: moh-husni-mubaraq-b504831a0
-github: whoishusni
-dicoding: whoishusni
+# email: mohhusnimubaraq@gmail.com
+# website: whoishusni.github.io # do not add http://
+# linkedin: moh-husni-mubaraq-b504831a0
+# github: whoishusni
+# dicoding: whoishusni
 
 # Files or folders to be excluded
 exclude: [gitbook_source_code/]
