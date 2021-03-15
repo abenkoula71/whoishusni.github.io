@@ -1,3 +1,9 @@
+- title: MoKat (Android, Kotlin)
+  link: https://github.com/whoishusni/MoKat
+  time: Jan 2021 - Mar 2021
+  company: Personal Project
+  info: Another App of Information About Movies, but with clean architecture, Dependency Injection, Coroutine Flow, Database Encryption, Obfuscation, SSL Pinning, Dynamic Module, etc..
+
 - title: MoviesCatalogue (Android, Kotlin)
   link: https://github.com/whoishusni/MovieCatalogue
   time: Nov 2020 - Des 2020
