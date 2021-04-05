@@ -1,11 +1,14 @@
 - name: Java
-  level: 80
+  level: 75
 
 - name: Kotlin
-  level: 75
+  level: 80
 
 - name: C#
   level: 70
 
 - name: Corel Draw
   level: 80
+
+- name: Photoshop
+  level: 55
