@@ -4,6 +4,9 @@
 - name: Kotlin
   level: 80
 
+- name: Python
+  level: 55
+
 - name: C#
   level: 70
 
